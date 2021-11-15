@@ -3,7 +3,6 @@ let counterDOM=document.querySelector(`#counter`);
 let increaseDOM=document.querySelector(`#increase`);
 let decreaseDOM=document.querySelector(`#decrease`);
 
-
 counterDOM.innerHTML=counter;
 
 increaseDOM.addEventListener("click",clickEvent)
