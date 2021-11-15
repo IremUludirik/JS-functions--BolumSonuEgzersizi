@@ -23,6 +23,7 @@ localStorage.setItem(`counter`, counter)
 }
 
 
+
 /* kısa yol:
 function clickEvent (){
     console.log(this.id)
