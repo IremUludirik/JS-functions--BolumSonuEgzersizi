@@ -1,6 +1,6 @@
 # JS-functions-Counter-BolumSonuEgzersizi
 
-
+https://iremuludirik.github.io/counter/
 
 counter
 
